@@ -5,5 +5,9 @@ body{
 h2{
   color: white;
 }
-#movies{
-  border: 1px solid yellow:
+#movie{
+  border: 2px solid yellow;
+}
+#anime{
+  border: 2px solid yellow;
+}
